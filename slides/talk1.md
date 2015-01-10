@@ -1,6 +1,6 @@
-% Eating Habits
-% Jane Doe
-% March 22, 2005
+% Being Axesome - A Retrospective
+% Juggernaut DeMann
+% March 22, 20xx
 
 # In the morning
 
