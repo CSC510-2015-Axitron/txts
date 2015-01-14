@@ -72,6 +72,9 @@ $(Out)/slides/%.html : $(Raw)/slides/%.md
 	      -c        ../img/slidy.css \
               -o $@ $<
 
+$(Raw)/slides/%.md : $(Raw)/slides/%/*.md
+	cat $^ > $@
+
 $(Out)/img/dot/%.png : $(Raw)/dot/%.dot
 	dot -Tpng -o $@ $<
 
