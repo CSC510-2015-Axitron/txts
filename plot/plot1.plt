@@ -10,5 +10,5 @@ set xlabel "Xx axis"
 set ylabel "Yy axis" 
 set zlabel "Z axis" 
 set zlabel  offset character 1, 0, 0 font "" textcolor lt -1 norotate
-splot [-5:5.01] [-5:5.01] sin(sqrt(x**2+y**2)) / sqrt(x**2+y**2)
+splot [-5:5.01] [-5:5.01] cos(abs(x) + abs(y)) * (abs(x)+abs(y))
 
