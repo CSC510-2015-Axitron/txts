@@ -1,17 +1,17 @@
-# In the morning
+# Table Omega
 
 
 <center>
 
-  Right     Left     Center     Default
+  Jan       Feb     Mar          Apr
 -------     ------ ----------   -------
-     12     12        12            12
-    123     123       123          123
-      1     1          1             1
-    456     78         910          12
-         12     12        12            12
+   111       222       333        444
+  1000       100       10          1
+  YES        No       N/A          Cool!
+  9999       8888    7777          6666
 
-Table:  Demonstration of simple table syntax.
+
+Table: Table creation has been demstrated.
 
 </center>
 
@@ -34,3 +34,4 @@ OMELETTES
 - $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
 
 # References
+
