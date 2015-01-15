@@ -37,3 +37,6 @@ OMELETTES
 - $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
 
 # References
+# Will Morrow
+
+I AM A PERSON

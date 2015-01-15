@@ -1,5 +1,5 @@
 
-Out=../../www/cs510/spring15/hw/1
+Out=../../www/axe
 Raw=$(PWD)
 Lib=./lib
 
