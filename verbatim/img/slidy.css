@@ -26,7 +26,7 @@ div.toolbar {
   padding-left: 1em;
   padding-right: 1em; 
   font-size: 60%;
-  color: red;
+  color: blue;
   background-color: rgb(240,240,240);
   border-top: solid 1px rgb(180,180,180);
 }
@@ -120,7 +120,7 @@ div.slide.titlepage h1 {
 }
 
 div.slide h1 {
-	color: red;
+	color: blue;
   padding-left: 0;
   padding-right: 20pt;
   padding-top: 4pt;
@@ -133,7 +133,7 @@ div.slide h1 {
   font-size: 160%;
   line-height: 1.2em;
   xbackground: transparent;
-  background-color: #CC0303;
+  background-color: #2003cc;
 	color: white;
 
   padding-left: 10px;
@@ -189,7 +189,7 @@ pre {
  border-top-width: thin;
  border-right-width: thin;
  border-bottom-width: thin;
- border-color: #95ABD0;
+ border-color: #9f95d0;
  color: #00428C;
  background-color: #E4E5E7;
 }
@@ -376,7 +376,7 @@ tr.even {
     background-color: #CCC;
 }
 caption{
-    color: red
+    color: blue
 }
 table {border: 1px solid black;
 padding-top: 7px;
