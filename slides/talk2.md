@@ -1,20 +1,20 @@
-% Twelve Axes
-% Axe DeAxe
-% June 17, 2022
-# In the morning
+% Amazing Mazes
+% Mark Luo, William Morrow, Matthew Neal, Kurt Spencer
+% January 20th, 2015
+# Table Omega
 
 
 <center>
 
-  Right     Left     Center     Default
+  Jan       Feb     Mar          Apr
 -------     ------ ----------   -------
-     12     12        12            12
-    123     123       123          123
-      1     1          1             1
-    456     78         910          12
-         12     12        12            12
+   111       222       333        444
+  1000       100       10          1
+  YES        No       N/A          Cool!
+  9999       8888    7777          6666
 
-Table:  Demonstration of simple table syntax.
+
+Table: Table creation has been demstrated.
 
 </center>
 
@@ -38,6 +38,7 @@ OMELETTES
 
 # References
 
+
 # Plot and Function
 
 Function displayed below:
@@ -47,6 +48,25 @@ $f(x,y)=sin(x^2+y^2)$
 
 
 
+#Project Details
+###Static/Handmade Content
+Pros
+*Quick to implement
+*High developer control
+*Same experience every game
+Cons
+*Slow to create content
+*Same experience every game
+#Project Details
+###Procedural Content
+Pros
+*No/few content developers necessary
+*(Semi) endless variety
+*Different experience every game
+Cons
+*Difficult to implement
+*Different experience every game
+*Medium/low developer control over content
 # Will Morrow
 
 I AM A PERSON
