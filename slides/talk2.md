@@ -1,20 +1,21 @@
 % Twelve Axes
 % Axe DeAxe
 % June 17, 2022
-# In the morning
+
+# Table Omega
 
 
 <center>
 
-  Right     Left     Center     Default
+  Jan       Feb     Mar          Apr
 -------     ------ ----------   -------
-     12     12        12            12
-    123     123       123          123
-      1     1          1             1
-    456     78         910          12
-         12     12        12            12
+   111       222       333        444
+  1000       100       10          1
+  YES        No       N/A          Cool!
+  9999       8888    7777          6666
 
-Table:  Demonstration of simple table syntax.
+
+Table: Table creation has been demstrated.
 
 </center>
 
@@ -38,14 +39,13 @@ OMELETTES
 
 # References
 
+
 # Plot and Function
 
 Function displayed below:
 $f(x,y)=sin(x^2+y^2)$
 
 <img align=center src="../img/plot/plot1.png">
-
-
 
 # Will Morrow
 
@@ -55,9 +55,11 @@ I HAVE DONE THINGS
 
 (C) WILL MORROW 2015
 (D) HERP DERP
+
 #Matthew Neal
 
 Master of the axe!
+
 # Kurt Spencer
 
 Ore wa hito da.
