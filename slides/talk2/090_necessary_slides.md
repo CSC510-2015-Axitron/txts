@@ -1,5 +1,4 @@
-# Table Omega
-
+# Tables
 
 <center>
 
@@ -11,24 +10,11 @@
   9999       8888    7777          6666
 
 
-Table: Table creation has been demstrated.
+Table: Demonstration of table creation
 
 </center>
 
-The ziffness of dorkies must:
-
-- Eat eggs
-- Drink coffee
-
-# At Noon
-
-Art thou serious? Make omelettes at all times!
-
-# After 5pm
-
-OMELETTES
-
-# Conclusion
+# Formulas
 
 - And the answer is...
 - $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$

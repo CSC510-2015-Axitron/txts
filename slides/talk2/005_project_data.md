@@ -1,5 +1,7 @@
 #Project Details: Static/Handmade Content
 
+<img align=right src="../img/project_proposal/datafile.png">
+
 Pros
 
 * Quick to implement

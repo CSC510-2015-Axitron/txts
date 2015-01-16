@@ -1,5 +1,7 @@
 # Will Morrow
 
+![Will Morrow](../img/project_proposal/will.jpg)
+
 I AM A PERSON
 
 I HAVE DONE THINGS

@@ -2,52 +2,39 @@
 % Mark Luo, William Morrow, Matthew Neal, Kurt Spencer
 % January 20th, 2015
 
-# Table Omega
+#Idea
 
+Many indie games have procedural content generation
 
-<center>
+* Is it worth it?
+    + How difficult to implement?
+    + How much do users like it?
+* What sort of algorithms are out there?
+    + L-Systems
+    + Noise
+    + Others?
 
-  Jan       Feb     Mar          Apr
--------     ------ ----------   -------
-   111       222       333        444
-  1000       100       10          1
-  YES        No       N/A          Cool!
-  9999       8888    7777          6666
+#Project Proposed
+Simple game with both procedural and hand-crafted content
 
+Mazes:
 
-Table: Table creation has been demstrated.
+<img align=right src="../img/project_proposal/maze.png">
 
-</center>
-
-The ziffness of dorkies must:
-
-- Eat eggs
-- Drink coffee
-
-# At Noon
-
-Art thou serious? Make omelettes at all times!
-
-# After 5pm
-
-OMELETTES
-
-# Conclusion
-
-- And the answer is...
-- $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
-
-# References
-
-
-# Plot and Function
-
-Function displayed below:
-$f(x,y)=sin(x^2+y^2)$
-
-<img align=center src="../img/plot/plot1.png">
+* Simple concept and execution
+* Lots of ways to make mazes, even given constraints
+    + Square space, grid movement
+    + Each location has 4 possible doors/walls
+* Many established maze generation algorithms
+    + Search algs
+    + Kruskal's alg
+    + Prim's alg
+    + Recursive division
+    + etc...
 
 #Project Details: Static/Handmade Content
+
+<img align=right src="../img/project_proposal/datafile.png">
 
 Pros
 
@@ -68,6 +55,8 @@ Pros
 * (Semi) endless variety
 * Different experience every game
 
+<p align=right >$u(t,x) = \frac{1}{2\sqrt{\pi\alpha t}} \exp \left ( -\frac{x^2}{4\alpha t} \right )$</p>
+
 Cons
 
 * Difficult to implement
@@ -75,6 +64,8 @@ Cons
 * Medium/low developer control over content
 
 # Will Morrow
+
+![Will Morrow](../img/project_proposal/will.jpg)
 
 I AM A PERSON
 
@@ -96,4 +87,35 @@ Ore wa hito da.
 This is me!
 
 I am here!
+
+
+# Plot and Function
+
+Function displayed below:
+$f(x,y)=sin(x^2+y^2)$
+
+<img align=center src="../img/plot/plot1.png">
+
+# Tables
+
+<center>
+
+  Jan       Feb     Mar          Apr
+-------     ------ ----------   -------
+   111       222       333        444
+  1000       100       10          1
+  YES        No       N/A          Cool!
+  9999       8888    7777          6666
+
+
+Table: Demonstration of table creation
+
+</center>
+
+# Formulas
+
+- And the answer is...
+- $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
+
+# References
 
