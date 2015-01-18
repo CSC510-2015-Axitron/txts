@@ -75,6 +75,20 @@ __Executable Based__
 
 * Local Java Application
 
+#Project Details: Data collection
+
+__Market analysis__
+
+* Total downloads and frequency
+* User ratings
+* Number of referrals
+
+__Gamer behavior__
+
+* Game time and frequency
+* Time spent on static and procedural contents
+* Gamer preference, strategy, and steps 
+
 # Will Morrow
 
 ![Will Morrow](../img/project_proposal/will.jpg)
@@ -103,9 +117,11 @@ Ore wa hito da.
 
 # Mark Luo
 
-This is me!
+(A) Mac user
 
-I am here!
+(B) Music and game player
+
+(C) Loves to try new things
 
 
 # Plot and Function

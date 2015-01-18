@@ -1,6 +1,8 @@
 # Mark Luo
 
-This is me!
+(A) Mac user
 
-I am here!
+(B) Music and game player
+
+(C) Loves to try new things
 
