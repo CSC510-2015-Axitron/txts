@@ -63,6 +63,18 @@ Cons
 * Different experience every game
 * Medium/low developer control over content
 
+#Project Details: Deployment Options
+
+__Web Based__
+
+* Java Applet
+* Lua Webplayer
+* Unity Webplayer
+
+__Executable Based__
+
+* Local Java Application
+
 # Will Morrow
 
 ![Will Morrow](../img/project_proposal/will.jpg)
@@ -74,9 +86,16 @@ I HAVE DONE THINGS
 (C) WILL MORROW 2015
 (D) HERP DERP
 
-#Matthew Neal
+# Matthew Neal
 
-Master of the axe!
+
+![Matthew Neal](../img/project_proposal/meneal.jpg)
+  
+(A) 1st year masters student
+
+(B) Abrogator of the damned
+
+(C) Eviscerator of the weak
 
 # Kurt Spencer
 
