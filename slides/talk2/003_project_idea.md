@@ -10,5 +10,3 @@ Many indie games have procedural content generation
     + Noise
     + Others?
 
-\n\n
-

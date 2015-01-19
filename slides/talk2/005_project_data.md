@@ -13,5 +13,3 @@ Cons
 * Slow to create content
 * Same experience every game
 
-\n\n
-

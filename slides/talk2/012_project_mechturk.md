@@ -7,5 +7,3 @@
 * The best way seems to be to deploy via the web and then workers can get to the game without a download
 * This would likely result in the largest amount of users playing our game and taking the survey
 
-\n\n
-

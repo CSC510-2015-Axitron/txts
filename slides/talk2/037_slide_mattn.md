@@ -9,5 +9,3 @@
 
 (C) Eviscerator of the weak
 
-\n\n
-

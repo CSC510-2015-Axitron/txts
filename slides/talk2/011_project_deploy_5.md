@@ -12,5 +12,3 @@ _Cons_
 
 * Deploys locally to user's machine and may be more difficult to convince users to try this way
 
-\n\n
-

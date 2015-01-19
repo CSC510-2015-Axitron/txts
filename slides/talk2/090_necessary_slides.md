@@ -21,5 +21,3 @@ Table: Demonstration of table creation
 
 # References
 
-\n\n
-

@@ -14,5 +14,3 @@ Cons
 * Different experience every game
 * Medium/low developer control over content
 
-\n\n
-

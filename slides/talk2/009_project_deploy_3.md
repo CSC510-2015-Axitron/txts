@@ -16,5 +16,3 @@ _Cons_
 * Webplayer is currently in beta and doesn't really work per our testing
 * Team doesn't know Lua
 
-\n\n
-

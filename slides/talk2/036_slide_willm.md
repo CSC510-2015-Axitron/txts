@@ -8,5 +8,3 @@ Person
 
 Has done things
 
-\n\n
-
