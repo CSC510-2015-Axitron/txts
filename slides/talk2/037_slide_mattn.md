@@ -5,7 +5,7 @@
   
 (A) 1st year masters student
 
-(B) Abrogator of the damned
+(B) Likes eating
 
-(C) Eviscerator of the weak
+(C) Also likes books
 
