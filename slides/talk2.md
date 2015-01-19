@@ -2,6 +2,8 @@
 % Mark Luo, William Morrow, Matthew Neal, Kurt Spencer
 % January 20th, 2015
 
+\n\n
+
 #Idea
 
 Many indie games have procedural content generation
@@ -13,6 +15,8 @@ Many indie games have procedural content generation
     + L-Systems
     + Noise
     + Others?
+
+\n\n
 
 #Project Proposed
 Simple game with both procedural and hand-crafted content
@@ -32,6 +36,8 @@ Mazes:
     + Recursive division
     + etc...
 
+\n\n
+
 #Project Details: Static/Handmade Content
 
 <img align=right src="../img/project_proposal/datafile.png">
@@ -46,6 +52,8 @@ Cons
 
 * Slow to create content
 * Same experience every game
+
+\n\n
 
 #Project Details: Procedural Content
 
@@ -63,6 +71,8 @@ Cons
 * Different experience every game
 * Medium/low developer control over content
 
+\n\n
+
 #Project Details: Deployment Options
 
 __Web Based__
@@ -74,6 +84,8 @@ __Web Based__
 __Executable Based__
 
 * Local Java Application
+
+\n\n
 
 # Project Details: Deployment Options
 
@@ -89,6 +101,8 @@ _Cons_
 
 * Running an applet requires accepting java security wanrning 
 * Requires the clients have Java plugin and Java installed on their machine
+
+\n\n
 
 # Project Details: Deployment Options
 
@@ -107,6 +121,8 @@ _Cons_
 
 * Webplayer is currently in beta and doesn't really work per our testing
 * Team doesn't know Lua
+
+\n\n
 
 # Project Details: Deployment Options
 
@@ -129,6 +145,8 @@ _Cons_
 * May be difficult to do the procedural generation of levels we want to do with Unity Scripting.
 * Our game will likely be built in 2d and Unity may end up being overkill
 
+\n\n
+
 # Project Details: Deployment Options
 
 __Java Application__
@@ -143,6 +161,8 @@ _Cons_
 
 * Deploys locally to user's machine and may be more difficult to convince users to try this way
 
+\n\n
+
 # Project Details: Mechanical Turk
 
 * [Mechanical Turk](https://www.mturk.com/mturk/help?helpPage=overview) is a platform for paying users perform HITs (Human Intelligence Tasks)
@@ -151,6 +171,8 @@ _Cons_
 * Once they have played procedurally generated and manually generated levels in the game they will respond to survey questions indicating their thoughts on each option
 * The best way seems to be to deploy via the web and then workers can get to the game without a download
 * This would likely result in the largest amount of users playing our game and taking the survey
+
+\n\n
 
 #Project Details: Data collection
 
@@ -166,16 +188,19 @@ __Gamer behavior__
 * Time spent on static and procedural contents
 * Gamer preference, strategy, and steps 
 
+\n\n
+
 # Will Morrow
 
 ![Will Morrow](../img/project_proposal/will.jpg)
 
-I AM A PERSON
+CSC Masters (May 2015)
 
-I HAVE DONE THINGS
+Person
 
-(C) WILL MORROW 2015
-(D) HERP DERP
+Has done things
+
+\n\n
 
 # Matthew Neal
 
@@ -188,9 +213,13 @@ I HAVE DONE THINGS
 
 (C) Eviscerator of the weak
 
+\n\n
+
 # Kurt Spencer
 
 Ore wa hito da.
+
+\n\n
 
 # Mark Luo
 
@@ -200,6 +229,8 @@ Ore wa hito da.
 
 (C) Loves to try new things
 
+\n\n
+
 
 # Plot and Function
 
@@ -207,6 +238,8 @@ Function displayed below:
 $f(x,y)=sin(x^2+y^2)$
 
 <img align=center src="../img/plot/plot1.png">
+
+\n\n
 
 # Tables
 
@@ -230,4 +263,6 @@ Table: Demonstration of table creation
 - $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
 
 # References
+
+\n\n
 

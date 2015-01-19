@@ -12,3 +12,5 @@ __Gamer behavior__
 * Time spent on static and procedural contents
 * Gamer preference, strategy, and steps 
 
+\n\n
+

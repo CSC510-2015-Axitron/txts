@@ -16,3 +16,5 @@ Mazes:
     + Recursive division
     + etc...
 
+\n\n
+

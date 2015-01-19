@@ -2,10 +2,11 @@
 
 ![Will Morrow](../img/project_proposal/will.jpg)
 
-I AM A PERSON
+CSC Masters (May 2015)
 
-I HAVE DONE THINGS
+Person
 
-(C) WILL MORROW 2015
-(D) HERP DERP
+Has done things
+
+\n\n
 
