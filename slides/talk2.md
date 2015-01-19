@@ -75,6 +75,83 @@ __Executable Based__
 
 * Local Java Application
 
+# Project Details: Deployment Options
+
+__Java Applet__
+
+_Pros_
+
+* Group is skilled in Java
+* Web based deployment
+* No need to learn new tools
+
+_Cons_
+
+* Running an applet requires accepting java security wanrning 
+* Requires the clients have Java plugin and Java installed on their machine
+
+# Project Details: Deployment Options
+
+__Lua Webplayer__
+
+A webplayer for Lua Love based games is available here:
+[Webplayer](https://github.com/ghoulsblade/love-webplayer)
+
+_Pros_
+
+* Lua apperas to be a reasonably simple language to learn
+* Love is a feature packed library
+* Web based deployment is possible
+
+_Cons_
+
+* Webplayer is currently in beta and doesn't really work per our testing
+* Team doesn't know Lua
+
+# Project Details: Deployment Options
+
+__Unity Webplayer__
+
+[Unity](http://www.unity3d.com)
+
+
+_Pros_
+
+* Unity webplayer worked well in our testing
+* Web based deployment possible
+* Unity scripts are written in in C#, Javascript, or Boo so time to learn the scripting lanugage should be reasonably short
+* Unity has been used for successful commercial games
+
+
+_Cons_
+
+* Group members don't know Unity, or the languages used for Unity scripting
+* May be difficult to do the procedural generation of levels we want to do with Unity Scripting.
+* Our game will likely be built in 2d and Unity may end up being overkill
+
+# Project Details: Deployment Options
+
+__Java Application__
+
+_Pros_
+
+* Group knows Java
+* No new tools to learn other than [LWJGL](http://www.lwjgl.org/) library
+* LWJGL looks to be a pretty powerful library
+
+_Cons_
+
+* Deploys locally to user's machine and may be more difficult to convince users to try this way
+
+# Project Details: Mechanical Turk
+
+* [Mechanical Turk](https://www.mturk.com/mturk/help?helpPage=overview) is a platform for paying users perform HITs (Human Intelligence Tasks)
+* Surveys are a commonly used HIT in Mechanical Turk
+* Our plan is to place a survey on Mechanical Turk with a link to either the application as a download, or a web based version of our game
+* Once they have played procedurally generated and manually generated levels in the game they will respond to survey questions indicating their thoughts on each option
+* The best way seems to be to deploy via the web and then workers can get to the game without a download
+* This would likely result in the largest amount of users playing our game and taking the survey
+
 #Project Details: Data collection
 
 __Market analysis__
