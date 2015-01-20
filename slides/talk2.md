@@ -14,6 +14,21 @@ Many indie games have procedural content generation
     + Noise
     + Others?
 
+#L-Systems / Noise
+
+<img align=right src="../img/project_proposal/opensimplexnoise.png">
+
+Two basic tools in procedural content generation
+
+* L-Systems
+    + Simple grammar
+    + Iterative
+    + Lends well to fractals & trees
+* Noise
+    + Smooth randomness in n-dimensional space
+    + $noise(x, y, z, ..)$ -> real value $[-1,1]$
+    + Good for textures, terrain, caves, clouds, weather, ... 
+
 #Project Proposed
 Simple game with both procedural and hand-crafted content
 
@@ -194,9 +209,17 @@ Has done things
 
 # Kurt Spencer
 
-Ore wa hito da.
+![Kurt Spencer](../img/project_proposal/ktspence.jpg)
+
+(A) Likes movies
+
+(B) Likes game programming
+
+(C) Developed OpenSimplex Noise (noise render shown in earlier slide)
 
 # Mark Luo
+
+![Mark Luo](../img/project_proposal/mark.jpg)
 
 (A) Mac user
 
