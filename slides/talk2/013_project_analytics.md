@@ -1,14 +1,19 @@
-#Project Details: Data collection
+#Project Details: Analytics
 
 __Market analysis__
 
-* Total downloads and frequency
+_Data will be collected from Amazon Mechanical Turk_
+
+* Number of downloads and download frequency
 * User ratings
 * Number of referrals
 
-__Gamer behavior__
+__Gamer preference__
 
-* Game time and frequency
-* Time spent on static and procedural contents
-* Gamer preference, strategy, and steps 
+_Methods may be built in the game to track gamer behavior_
+
+* Total game time and gaming frequency
+* Individual time spent on static and procedural layers
+* Gamer strategy and step analysis 
+* Formulated scores to reward smart and better gaming strategy
 
