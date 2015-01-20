@@ -11,5 +11,5 @@ Two basic tools in procedural content generation
 * Noise
     + Smooth randomness in n-dimensional space
     + $noise(x, y, z, ..)$ -> real value $[-1,1]$
-    + Good for textures, terrain, caves, clouds, weather, ...
+    + Good for textures, terrain, caves, clouds, weather, ... 
 
