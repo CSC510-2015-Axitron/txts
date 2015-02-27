@@ -1,5 +1,5 @@
-## Bad Smells
-
+# Bad Smells
+`
 * Uneven commit history
 
 * Late milestone planning

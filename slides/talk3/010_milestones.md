@@ -1,4 +1,4 @@
-## Milestones
+# Milestones
 5 milestones at present
 
 * Feb 27th: v0.1 (done right on time)
