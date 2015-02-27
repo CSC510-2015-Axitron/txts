@@ -1,4 +1,4 @@
-## v0.3 March 13th
+# v0.3 March 13th
 * Animated Knight/Player
 * Music
 * Additional Tileset

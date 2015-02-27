@@ -1,4 +1,4 @@
-## v0.2 March 6th
+# v0.2 March 6th
 * Functional menu that can choose more than one level
 * Editor
 * Improved display math

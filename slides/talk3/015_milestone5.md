@@ -1,4 +1,4 @@
-## v0.5 March 27th
+# v0.5 March 27th
 * Fun animation stuff
 * Additional tileset
 * Gates/Keys

@@ -1,4 +1,4 @@
-## Overarching Goals (2/2)
+# Overarching Goals (2/2)
 * User Feedback/Survey
 * Continuous Integration/Deployment
 * Reasonable Testing
