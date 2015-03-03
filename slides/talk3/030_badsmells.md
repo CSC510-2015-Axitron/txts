@@ -1,4 +1,5 @@
 # Bad Smells
+
 * Uneven commit history
 * Late milestone planning
 * Tooling turnover
