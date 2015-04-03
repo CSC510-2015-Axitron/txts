@@ -15,6 +15,30 @@
 * Reasonable Testing
 * Static Analysis
 
+#Goal Progress
+
+<img align=right src="../img/project1/progress1.png">
+
+* Working Game
+
+* Working Interface
+
+#Goal Progress
+
+<img align=right src="../img/project1/progress2.png">
+	
+* Good Testing & Static Analysis
+
+* Condinuous Integration / Deployment
+
+#Goal Progress
+
+<img align=right src="../img/project1/progress3.png">
+
+* Working Map Designer
+
+* Good Number of Levels
+
 # Milestones
 5 milestones at present
 
@@ -67,25 +91,16 @@
 
 
 # Bad Smells
-`
+
 * Uneven commit history
-
 * Late milestone planning
-
 * Tooling turnover
-
 * Initial language inexperience
-
 * Poor inline documentation
-
 * Code coverage levels 
-
 * Long open issues
-
 * Misuses of Git branching
-
 * JSHint issues
-
 * Weather
 
 #Testing
@@ -94,7 +109,10 @@ Testing is being done using the following tools:
 
 - [Mocha Testing Framework](http://mochajs.org/)
 - [Chai Assertions](http://chaijs.com/)
-- [JShint Static Analysis](http://jshint.com/)
+- [JShint Static Analysis](http://jshint.com/) 
+	- using html output from [jsint html reporter](https://github.c om/adrianpietka/jshint-html-reporter)
+- [Istanbul Code Coverage](https://github.com/gotwarlost/istanbul)
+- Our tests live in the [/test directory](https://github.com/CSC510-2015-Axitron/maze/tree/master/test) in our repo
 
 Originally testing was done using a TestRig made by Mr. Morrow, but 
 we moved to a more formal type of testing as time went on to hook in
