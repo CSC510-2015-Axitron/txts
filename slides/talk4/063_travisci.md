@@ -6,3 +6,4 @@
 - Easy to set up and maintain
 - Notifies in case of broken builds
 - Current status is shown [here](https://travis-ci.org/CSC510-2015-Axitron/maze).
+

@@ -83,9 +83,77 @@ For now, demo!
 
 
 
+# Infrastructure
 
+- What is DevOps?
+ 
+    ![](../img/finalpres/wallofconfusion.png)
 
+# Continuous Integration & Deployment
+### Defining terms:
 
+- CI (Continuous Integration) - As defined by Martin Fowler "a software development practice where members of a team integrate their work frequently, usually each person integrates at least daily - leading to multiple integrations per day. Each integration is verified by an automated build (including test) to detect integration errors as quickly as possible. Many teams find that this approach leads to significantly reduced integration problems and allows a team to develop cohesive software more rapidly."
+- CD (Continuous Deployment/Delivery) - Per Fitzgerald and Sol "Continuous deployment is the practice of continuously deploying good software builds automatically to some environment, but not necessarily to actual users."
 
+# Our Infrastructure:
 
+![](../img/finalpres/infrastructure.png)
+
+#Travis-CI
+
+- Cloud based continuous integration platform
+- Runs our tests, static code analysis, and test coverage
+- Functions as a gatekeeper
+- Easy to set up and maintain
+- Notifies in case of broken builds
+- Current status is shown [here](https://travis-ci.org/CSC510-2015-Axitron/maze).
+
+#Heroku
+
+- Continuous deployment and delivery platform
+- Travis CI automatically deploys to Heroku if testing passes
+- Very strong integration with Travis CI
+- Has addons that provided  services our team needed:
+    - JawsDB - A free addon provided by Heroku for MySQL databases
+    - KeenIO - A cloud service for web analtytics and visuals
+
+# Database Communication
+
+![](../img/finalpres/apicommunication.png)
+
+#Analytics
+
+- Just a simple pie graph to indicate which type of mazes users like best
+- Current results are [here](http://axemaze.herokuapp.com/pie.html).
+- Data can be retrieved from keen.io in simple JSON objects, or can be used in visualizations provided by keen.io's graphing engine.
+- Keen.io also provides a simple workbench feature for creating visualizations on the fly in a graphical fashion.
+
+#Conclusions
+There were two parts to our question, but without more work we can only answer one of them.
+
+Comparing the difficulty of handcrafted content to procedural content,
+
+* Handcrafted content is more time consuming to develop
+    + Tools don't take too long
+    + Easier to get what you want
+    + Very time consuming to make enough
+* Procedural content is quicker
+    + More difficult to make interesting
+    + Can be time consuming to tune
+* Solution: use both!
+    + Most developers have a mix of procedural and handcrafted
+    + Common combination: Handcrafted pieces put together by procedure
+
+#Where we go from here
+We don't necessarily go anywhere, but someone could
+
+We've set up the application and analytics, someone can use it to answer second question:
+
+Do people prefer one or the other?
+
+Need more people and more handcrafted content
+
+* Only results are from developers and a few friends
+* Current maze count is very low
+* Many repeats
 
