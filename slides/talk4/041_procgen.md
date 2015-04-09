@@ -1,13 +1,13 @@
 #Procedural Generation
 
-- What can it do?
+* What can it do?
 	* Terrain / Caverns
 	* Weather / Clouds
 	* Puzzles / Buildings / Dungeons
 	* Textures
 	* ...
 
-- Techniques
+* Techniques
 	* Coherent noise
 	* Trees
 	* L-Systems

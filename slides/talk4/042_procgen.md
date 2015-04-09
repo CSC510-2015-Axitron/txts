@@ -1,9 +1,9 @@
 #Procedural Generation
 
-- Our use of procedural generation
+* Our use of procedural generation
 	* ...Mazes!
 
-- Algorithms employed
+* Algorithms employed
 	* Recursive Backtracking
 	* "Coherent" Recursive Backtracking
 	* Randomized Prim's
